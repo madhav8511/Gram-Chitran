@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Fertilizer-Recommendation/static/css/main.239ec71e.css",
-    "main.js": "/Fertilizer-Recommendation/static/js/main.c32c9701.js",
-    "static/media/earth.jpg": "/Fertilizer-Recommendation/static/media/earth.027acc1ff0516390ca8f.jpg",
-    "static/media/random.jpg": "/Fertilizer-Recommendation/static/media/random.acbb3bf06da63f85403a.jpg",
-    "static/media/rounded.jpg": "/Fertilizer-Recommendation/static/media/rounded.75f75d9bb7db1b583bcd.jpg",
-    "index.html": "/Fertilizer-Recommendation/index.html",
-    "main.239ec71e.css.map": "/Fertilizer-Recommendation/static/css/main.239ec71e.css.map",
-    "main.c32c9701.js.map": "/Fertilizer-Recommendation/static/js/main.c32c9701.js.map"
+    "main.css": "/Gram-Chitran/static/css/main.883255a4.css",
+    "main.js": "/Gram-Chitran/static/js/main.c32c9701.js",
+    "static/media/earth.jpg": "/Gram-Chitran/static/media/earth.027acc1ff0516390ca8f.jpg",
+    "static/media/random.jpg": "/Gram-Chitran/static/media/random.acbb3bf06da63f85403a.jpg",
+    "static/media/rounded.jpg": "/Gram-Chitran/static/media/rounded.75f75d9bb7db1b583bcd.jpg",
+    "index.html": "/Gram-Chitran/index.html",
+    "main.883255a4.css.map": "/Gram-Chitran/static/css/main.883255a4.css.map",
+    "main.c32c9701.js.map": "/Gram-Chitran/static/js/main.c32c9701.js.map"
   },
   "entrypoints": [
-    "static/css/main.239ec71e.css",
+    "static/css/main.883255a4.css",
     "static/js/main.c32c9701.js"
   ]
 }
